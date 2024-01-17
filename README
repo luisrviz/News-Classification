@@ -1,0 +1,3 @@
+To use this code you simply need to modify the main.py file to make the data_path variable point to the folder containing your datasets.
+
+The enviroment has been managed with pipenv. Please execute "pipenv install" and activate the enviroments to execute this code.
